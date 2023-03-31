@@ -39,4 +39,4 @@ pipeline:
                   identifier: Run_Tests
                   spec:
                     shell: Sh
-                    command: npm test
+                    command: sudo npm test
